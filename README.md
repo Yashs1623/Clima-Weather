@@ -1,16 +1,14 @@
-# clima_weather_app
+# Clima- Weather App
 
-A new Flutter project.
+A live Weather app with the use of API
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Screenshots
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1](https://user-images.githubusercontent.com/80099005/127654776-4924f975-033c-4f76-8514-12cc0327c54d.jpeg)
+
+![Screenshot_2](https://user-images.githubusercontent.com/80099005/127654844-ba78544d-8bdf-4a44-90fd-f61434826475.jpeg)
+
+![Screenshot_3](https://user-images.githubusercontent.com/80099005/127654885-babe727b-8062-4819-bdf4-c62306e166fd.jpeg)
